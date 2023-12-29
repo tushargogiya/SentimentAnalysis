@@ -1,0 +1,1 @@
+In this project i have used kaggle 1.6 million tweets datasets to train machine learning models but for text and tweets accuracy i have created another app which use VADER pretrained model that's give high accuracy
